@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin-top: 0;
+    box-sizing: border-box;
+}
+
+
+ul li a {
+    color: rgb(230, 230, 230) !important;
+
+}
+
+ul li a:hover {
+    color: rgb(136, 136, 136) !important
+}
+
+.navbar {
+    padding: 0;
+}
+
+*::marker {
+    background-color: rgb(255, 0, 0) !important;
+    color: #FFF;
+}
